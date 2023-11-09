@@ -1,0 +1,11 @@
+h1{ font-size: 40px;}
+.red-text{ color: green; }
+#rounded-img{ border-radius: 300px; }
+
+body {
+ background-image: url("background.jpg");
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@700&display=swap');
+h1,h6,h3, p, table, ul{ font-family: 'Edu TAS Beginner', cursive; }
+table, ul{border-style: inset;}
