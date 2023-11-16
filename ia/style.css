@@ -1,6 +1,5 @@
 h1{ font-size: 40px;}
-.red-text{ color: green; }
-#rounded-img{ border-radius: 300px; }
+h1{ color: green; }
 
 body {
  background-image: url("background.jpg");
